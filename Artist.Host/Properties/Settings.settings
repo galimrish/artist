@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Artist.Host.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionTimeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="DefaultCacheLifeTime" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:01:00</Value>
+    </Setting>
+    <Setting Name="Bonus_CertificateStoreLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LocalMachine</Value>
+    </Setting>
+    <Setting Name="Bonus_CertificateStoreName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">My</Value>
+    </Setting>
+    <Setting Name="Bonus_API_Connection_Test" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
